@@ -1,7 +1,7 @@
 
 ## Scaffold Lite - TS
 
-> 轻量级模板，使用 TypeScript，仅包含基础的 Layout。
+> 利用ice框架对react-Hooks和ts进行实践
 
 ## 使用
 
@@ -13,7 +13,6 @@ $ npm install
 $ npm start  # visit http://localhost:3333
 ```
 
-[More docs](https://ice.work/docs/guide/about).
 
 ## 目录
 
